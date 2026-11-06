@@ -23,7 +23,6 @@ CLASSIFIERS = [
 
 REQUIREMENTS = [
     'Django',
-    'django-integrator',
 ]
 
 LICENSE = 'BSD'
